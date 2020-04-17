@@ -7,7 +7,7 @@ package pojo;
  */
 public class User {
     private String name;
-    private String age;
+    private String age;//名字
 
     public String getName() {
         return name;
